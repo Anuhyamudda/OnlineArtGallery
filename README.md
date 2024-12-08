@@ -1,2 +1,1 @@
-# OnlineArtGallery
-**The Palette Portal** is an online art gallery that connects artists with art lovers, offering a diverse collection of unique artworks for viewing and purchase in a simple, user-friendly platform.
+I have worked on Java Full Stack development using Spring Tool Suite 4 for backend development, Visual Studio for front-end tasks, and MySQL as the database to manage and store application data. These tools provided an integrated environment for both development and testing.
